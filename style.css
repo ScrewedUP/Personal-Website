@@ -16,7 +16,7 @@ body{
     padding:0 30px;
 }
 .top{
-    height: 685px;
+    height: 100vh;
     -webkit-background-size: cover;
 	background-size: cover;
 	background-position: center center;
